@@ -1,0 +1,21 @@
+
+header
+{
+  position: center;
+  text-align: center;
+  color: white;
+  font-size: 120;
+  border-style: solid;
+  border-color: #8c0900;
+  background-color: #8c0900;
+}
+
+
+text
+{
+  color: black;
+  position: center;
+  padding: 1px;
+  text-align: bottom;
+  font-size: 20;
+}
